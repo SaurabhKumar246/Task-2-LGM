@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+li{
+  color: blue;
+}
+
+button{
+  padding: 10px;
+  margin: auto;
+  color: black;
+  cursor: pointer;
+  background-color: palegreen;
+}
